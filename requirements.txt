@@ -1,0 +1,8 @@
+ultralytics
+deep_sort_realtime
+opencv-python
+numpy
+fonts-nanum
+paddleocr
+paddlepaddle
+rapidfuzz

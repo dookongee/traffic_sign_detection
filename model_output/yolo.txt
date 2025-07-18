@@ -1,0 +1,4 @@
+(time: 0.03s) object ID: 1, class: sign_word
+(time: 0.03s) object ID: 2, class: sign_word
+(time: 0.63s) object ID: 3, class: sign_word
+(time: 4.03s) object ID: 5, class: sign
